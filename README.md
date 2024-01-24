@@ -1,7 +1,5 @@
-# Big-Oven-
-Created a versatile Android mobile app with an attractive user interface and intuitive navigation, enticing users to explore quick, simple, and delicious recipes. Developed using Dart and Flutter.
+# Big-Oven
+Built an adaptable android based mobile application having beautiful UI and easy navigations encouraging anyone to tryout fast, easy and mouth-watering recipes.
 
---------------------------------------------------------
-#Demo video 
-https://github.com/DevenNabar/Big-Oven-/assets/68647977/9cdb59bc-7444-45d6-b843-4bc0389df7f7
-
+## Working
+https://user-images.githubusercontent.com/78092719/108380058-83c84600-722c-11eb-91e5-b1980fcfa113.mp4
