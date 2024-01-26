@@ -4,6 +4,6 @@
 - Contains signup and login for multiple users, a filter option to choose recipes by categories such as vegan, gluten-free, etc., and a favorites option to view starred recipes later.
 
 
-## Working
+# Working Demo
 https://github.com/DevenNabar/Head-Chef/assets/68647977/2a11c317-b743-4d43-ba03-37f9708d654c
 
